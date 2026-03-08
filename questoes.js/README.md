@@ -4,9 +4,9 @@
 
 ## Disciplina: 
 
-Raciocínio Lógico Algorítmico - T160-79
+Raciocínio Lógico Algoritmico - *T160-79*
 
-## Prof: 
+## Professor: 
 
 Matheus Ferreira
 
