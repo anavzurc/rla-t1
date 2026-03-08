@@ -1,4 +1,4 @@
-// Q1: verificação de aposentadoria
+// Questão 1:
 
 let idade = parseInt (prompt("Qual a sua idade? "));
 let tempo = parseFloat (prompt("Qual seu tempo de contribuição? "));

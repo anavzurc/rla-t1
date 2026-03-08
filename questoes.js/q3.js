@@ -1,4 +1,6 @@
-let nomeMot = prompt("Qual o seu nome? ");
+//Questão 3:
+
+let nomeMot = prompt("Qual é o seu nome? ");
 let velVia = parseFloat (prompt("Qual a velocidade máxima permitida na via (km/h)? "));
 let velVei = parseFloat (prompt("Qual a velocidade registrada do veículo (km/h)? "));
 let excesso = (velVei - velVia);
