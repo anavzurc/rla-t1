@@ -27,7 +27,7 @@ Solicite do usuário:
 * Idade
 * Tempo de contribuição
 
-- Verifique se o usuário pode se aposentar.
+##### Verifique se o usuário pode se aposentar.
 
 Requisitos:
 
@@ -47,7 +47,7 @@ Solicite:
 * Nota da prova de AV3
 * Percentual de frequencia das aulas
 
-- Verifique se o aluno foi aprovado na disciplina.
+##### Verifique se o aluno foi aprovado na disciplina.
 
 Requisitos:
 
@@ -71,7 +71,7 @@ Solicite:
 * Velocidade máxima permitida na via (km/h)
 * Velocidade registrada do veículo (km/h)
 
-- Verifique se o motorista recebeu multa e determine o tipo de penalidade aplicada.
+##### Verifique se o motorista recebeu multa e determine o tipo de penalidade aplicada.
 
 Requisitos:
 
